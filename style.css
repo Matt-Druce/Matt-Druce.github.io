@@ -1,0 +1,108 @@
+@charset "utf-8";
+.container header {
+    background-color: #5891A3;
+    color: #111111;
+}
+
+
+.container header nav {
+    background-color: #5891A3;
+}
+.container #contact {
+    background-color: #035E7B;
+    padding-top: 38px;
+}
+
+
+.container #about {
+    /* [disabled]width: 600px; */
+    display: block;
+    /* [disabled]min-width: 300px; */
+    /* [disabled]min-height: 0px; */
+    max-width: 1197px;
+    margin-left: 19px;
+    margin-right: 19px;
+    margin-top: 19px;
+    padding-top: 20px;
+    padding-right: 250px;
+    padding-bottom: 20px;
+    padding-left: 250px;
+    font-weight: bold;
+}
+body {
+    min-width: 320px;
+    max-width: 4096px;
+    margin-left: -6%;
+    margin-right: -6%;
+    }
+
+footer .footer_column .cards {
+    padding-top: 84px;
+    padding-right: 84px;
+    padding-bottom: 84px;
+    padding-left: 84px;
+}
+
+
+.container .Examples .Examples-Header {
+    margin-bottom: 0px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+
+footer .footer_column iframe {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    margin-top: 2px;
+    margin-bottom: -11px;
+    margin-left: -100px;
+    margin-right: -100px;
+    background-clip: padding-box;
+}
+.container #hero {
+    background-image: url(images/matt.PNG);
+    /* [disabled]background-size: 165% auto; */
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-position: 0% 0;
+    max-width: 400%;
+    max-height: 400%;
+    min-width: 20%;
+    min-height: 20%;
+    padding-top: 88px;
+    padding-bottom: 199px;
+}
+.container #hero .hero_header {
+    margin-top: 130px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+
+
+header a .logo {
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container {
+    background-image: url(images/squiggles.png);
+	background-attachment: scroll;
+	background-attachment:local;
+    background-position: 0 0%;
+    padding-bottom: 50%;
+}
+.container #Title {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
